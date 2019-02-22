@@ -1,7 +1,7 @@
 # LOSSGRAD
 This is an implementation of the LOSSGRAD optimization algorithm for PyTorch.
 The algorithm has been implemented in the paper:
-<TODO ARXIV LINK>
+[LOSSGRAD: automatic learning rate in gradient descent](https://arxiv.org/abs/1902.07656)
 
 
 ### Usage
