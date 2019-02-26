@@ -24,4 +24,11 @@ A more complicated example for an autoencoder trained on Fashion-MNIST (with fig
 
 ### Citing
 If you use the algorithm you can cite our paper:
-<TODO PASTE BIBTEX ENTRY AFTER PUBLICATION>
+```
+@article{wojcik2019lossgrad,
+  title={LOSSGRAD: automatic learning rate in gradient descent},
+  author={W{\'o}jcik, Bartosz and Maziarka, {\L}ukasz and Tabor, Jacek},
+  journal={arXiv preprint arXiv:1902.07656},
+  year={2019}
+}
+```
